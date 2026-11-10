@@ -88,4 +88,3 @@ Extracted objects via Wireshark (`Export Objects > HTTP`) and computed SHA-256 h
 5. **Security Awareness:** Conduct phishing awareness training focusing on macro-enabled documents.
 
 ---
-*Report generated for GitHub portfolio documentation.*
