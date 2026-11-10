@@ -4,7 +4,7 @@
 * **Incident Case:** Dridex / Urelas Malware Infection Analysis
 * **Target Organization:** Umbrella Corporation
 * **Affected User/Host:** Sarah (Accounting Department) | IP: `10.11.27.101`
-* **Analyst Name:** SOC Analyst
+* **Analyst Name:** Abdulrezzak AL-Ahmad
 * **Date of Investigation:** November 10, 2026
 * **Status:** Closed - Remediated & Documented
 
